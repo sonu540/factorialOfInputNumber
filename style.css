@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    background-color: black;
+    color:#fff;
+    height: 5rem;
+    line-height: 5rem;
+    text-align: center;
+    text-decoration: solid; 
+}
+
+input,label{
+    background-color: bisque;
+    margin-top: 5rem;
+    font-size: 2rem;
+    border-radius: 3rem;
+    border: 1px solid black;
+    text-align: justify;
+}
+#pra,#pra1{
+    font-size: 3rem;
+    margin-left: 5rem;   
+}
+button{
+    height: 2rem;
+    border-radius: 5%;
+    margin-left: 5rem;
+    font-size: larger;
+    cursor: pointer;
+  
+}
+button:hover{
+    background-color: aqua;
+}
+footer{
+    text-align: left;
+    margin-top: 6rem;
+    font-size: 1rem;
+}
+body{
+    background-color: yellow;
+}
+h3{
+    margin-top: 3rem;
+   
+      
+}
